@@ -22,11 +22,19 @@
     
     2. Non-Primitive Data Structure
         I. Array
-        II. List
+        II. Files
+        III. List
             i. Linear Lists
                 a. Stacks
                 b. Queues
             ii. Non-Linear Lists
                 a. Graphs
                 b. Trees
-        III. Files
+
+### Operations Of Data Structure
+    1. Traversal
+    2. Insertion
+    3. Deletion
+    4. Searching
+    5. Sorting
+    6. Merging
