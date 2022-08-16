@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+/* For Array Insert File */
+
+.container{
+    width: 25%;
+    height: 200px;
+    /* border: 2px solid black; */
+    text-align: center;
+    background-color: aqua;
+    border-radius: 10px;
+    margin: 300px 0 0 650px ;
+    box-shadow: 10px 10px 10px  rgba(106, 105, 105, 0.803);
+}
+
+.inp{
+    width: 75%;
+    height: 5vh;
+    font-size: 20px;
+    border: none;
+    border-bottom: 2px solid Black;
+    margin: 25px 0;
+
+}
+
+.btn{
+    width: 40%;
+    height: 3em;
+    font-size: 20px;
+    font-weight: 800;
+    border-radius: 0.5em;
+    cursor: pointer;
+}
